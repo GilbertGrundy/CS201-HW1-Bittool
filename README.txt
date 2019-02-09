@@ -18,5 +18,5 @@ with ones representing the arguments as bit positions. The program also
 successfuly prints an error message if the input does not meet the required
 criteria.
 
-After this homework I feel a lot more comfortablewith bitwise operators, 
+After this homework I feel a lot more comfortable with bitwise operators, 
 command line arguments, C, and Makefiles. The struggle was worth it!
